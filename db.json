@@ -1,0 +1,89 @@
+{
+  "users": [
+    {
+      "username": "test",
+      "email": "test@gmail.com",
+      "password": "test1234",
+      "createdAt": 1702129606105,
+      "id": 3
+    },
+    {  
+      "email": "user@gmail.com",
+      "password": "12345678",
+      "createdAt": 1702366067468,
+      "id": 4
+    },
+    {
+      "username": "user",
+      "email": "user@gmail.com",
+      "password": "123456789",
+      "createdAt": 1702494769354,
+      "id": 5
+    },
+    {
+      "username": "user",
+      "email": "user@gmail.com",
+      "password": "12345678",
+      "createdAt": 1702536397703,
+      "id": 6
+    }
+  ],
+  "notes": [
+    {
+      "title": "grege",
+      "description": "rgregerg",
+      "creatorId": 1,
+      "createdAt": 1702062122391,
+      "id": 7
+    },
+    {
+      "title": "gergr",
+      "description": "gergr",
+      "creatorId": 1,
+      "createdAt": 1702062125607,
+      "id": 8
+    },
+    {
+      "title": "grg",
+      "description": "grrgg",
+      "creatorId": 1,
+      "createdAt": 1702062130054,
+      "id": 10
+    },
+    {
+      "title": "d34f35",
+      "description": "f54f54",
+      "creatorId": 1,
+      "createdAt": 1702127232897,
+      "id": 11
+    },
+    {
+      "title": "f54f4",
+      "description": "5f54",
+      "creatorId": 1,
+      "createdAt": 1702127236224,
+      "id": 12
+    },
+    {
+      "title": "g5g5g",
+      "description": "56",
+      "creatorId": 1,
+      "createdAt": 1702127253497,
+      "id": 13
+    },
+    {
+      "title": "note 2",
+      "description": "wef",
+      "creatorId": 2,
+      "createdAt": 1702127330377,
+      "id": 14
+    },
+    {
+      "title": "ararrarar",
+      "description": "bwbniwkn",
+      "creatorId": 4,
+      "createdAt": 1702366091751,
+      "id": 15
+    }
+  ]
+}
